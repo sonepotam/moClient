@@ -1,0 +1,1 @@
+Specialized WS-Security Client with sftp, CryptoPro(cryptoprovider for goverment), XML, BinarySecurityToken and etc
