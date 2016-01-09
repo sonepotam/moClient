@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Class-Path: ASN1P.jar asn1rt.jar axis-1.4.jar axis-jaxrpc-1.4.jar bcma
+ il-jdk15on-152.jar bcpg-jdk15on-152.jar bcpkix-jdk15on-152.jar bcprov
+ -ext-jdk15on-152.jar bcprov-jdk15on-152.jar CAdES.jar cldrdata.jar co
+ mmons-discovery-0.2.jar commons-logging-1.1.1.jar commons-vfs2-2.0.ja
+ r dnsns.jar forms_rt.jar JCP.jar JCPControlPane.jar JCPinst.jar JCPRe
+ quest.jar JCPRevCheck.jar JCPRevTools.jar JCPxml.jar JCryptoP.jar JCS
+ P.jar jfxrt.jar joda-time-1.6.2.jar jsch-0.1.53.jar junit-4.8.2.jar l
+ ocaledata.jar log4j-api-2.3.jar log4j-core-2.3.jar nashorn.jar opensa
+ ml-2.5.1-1.jar openws-1.4.2-1.jar serializer-2.7.1.jar slf4j-api-1.6.
+ 1.jar slf4j-log4j12-1.6.1.jar sunec.jar sunjce_provider.jar sunpkcs11
+ .jar wss4j-1.6.3.jar xalan-2.7.1.jar xercesImpl-2.9.1.jar xml-apis-1.
+ 3.04.jar XMLDSigRI.jar xmlsec-1.5.0.jar xmltooling-1.3.2-1.jar zipfs.
+ jar rtjcard.jar rtjdeleter.jar rtjlib.jar
+Main-Class: testSign
+

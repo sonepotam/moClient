@@ -1,0 +1,6 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:data="http://smb.mil.ru/wsdl/data">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <data:StartSessionRequest/>
+    </soapenv:Body>
+</soapenv:Envelope>
